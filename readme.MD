@@ -16,4 +16,4 @@ There are 3 popular branching strategies.
 
 **Git Flow:**
 
-![alt text](git-flow.svg)
+![image](https://github.com/daws-78s/branching-strategy/assets/154740651/75eac370-333e-42ee-951a-360a08f311d7)
